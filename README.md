@@ -5,4 +5,3 @@ Testerd and works on
 * windows
 * macOS
 * linux
-* 
